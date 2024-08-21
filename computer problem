@@ -1,0 +1,6 @@
+import tkinter
+
+window = tkinter.Tk()
+window.title("secret note")
+window.mainloop()
+#bilgisayarım bugün packı,placeyi ve gridi çalıştırmdığı için max bu kadar yaptım
